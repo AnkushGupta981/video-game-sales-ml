@@ -17,3 +17,12 @@ The dataset contains information about video games such as platform, genre, publ
 - Pandas
 - Scikit-learn
 - Matplotlib
+
+
+## Progress Log - Day 1
+
+- Project structure created
+- CSV Cleaning project completed
+- SQL analysis queries written
+- Git setup and first commit completed
+- Neural Network basics revised
